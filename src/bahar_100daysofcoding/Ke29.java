@@ -10,7 +10,7 @@ public class Ke29 {
         // Menghasilkan bilangan acak antara 1 dan 100
         int angka = bilangan.nextInt(100) + 1;
 
-        // Mencetak bilangan acak ke layar
+        // Menampilkan bilangan acak menggunakan sout
         System.out.println("Bilangan acak : " + angka);
     }
 }
