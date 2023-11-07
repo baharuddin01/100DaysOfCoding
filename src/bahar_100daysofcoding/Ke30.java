@@ -2,7 +2,7 @@ package bahar_100daysofcoding;
 public class Ke30 {
     public static void main(String[] args) {
         int hari = 25;
-        int GajiKotor = 120000;
+        int GajiKotor = 1200000;
         int makan = 15000;
         int total1 = hari * GajiKotor;
         int total2 = hari * makan;
