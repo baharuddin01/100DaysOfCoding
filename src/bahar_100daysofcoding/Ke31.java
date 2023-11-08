@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package bahar_100daysofcoding;
-
-/**
- *
- * @author masdi
- */
 public class Ke31 {
     public static void main(String[] args) {
         int hari = 24;
@@ -82,8 +72,7 @@ public class Ke31 {
         System.out.println("Total Uang Makan    : "+total4_2);
         System.out.println("Gaji Bersih         : "+total4_3);
         System.out.println("=====================================================");
-        int total = total3 + total1_3 + total2_3 + total3_3 + total4_3;
-
-        System.out.println("Total uang yang di siapkan oleh perusahaan : " +total);
+        int total = total3 + total1_3 +total2_3 +total3_3 + total4_3;
+        System.out.println("uang yang di siapkan : " + total);
     }
 }
