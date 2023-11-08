@@ -73,6 +73,6 @@ public class Ke31 {
         System.out.println("Gaji Bersih         : "+total4_3);
         System.out.println("=====================================================");
         int total = total3 + total1_3 +total2_3 +total3_3 + total4_3;
-        System.out.println("uang yang di siapkan : " + total);
+        System.out.println("uang yang di siapkan oleh perusahaan : Rp" + total);
     }
 }
