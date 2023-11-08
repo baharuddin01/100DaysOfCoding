@@ -82,6 +82,8 @@ public class Ke31 {
         System.out.println("Total Uang Makan    : "+total4_2);
         System.out.println("Gaji Bersih         : "+total4_3);
         System.out.println("=====================================================");
-        System.out.println("Total uang yang di siapkan oleh perusahaan : " +total3 + total1_3 + total2_3 + total3_3 + total4_3);
+        int total = total3 + total1_3 + total2_3 + total3_3 + total4_3;
+
+        System.out.println("Total uang yang di siapkan oleh perusahaan : " +total);
     }
 }
