@@ -5,13 +5,10 @@ import java.util.Scanner;
 
 public class Ke52 {
     public static void main(String[] args) {
-        // Membuat array untuk menyimpan string dan angka
         ArrayList<String> arrayString = new ArrayList<>();
         ArrayList<Integer> arrayAngka = new ArrayList<>();
 
-        // Membuat objek Scanner untuk membaca input dari pengguna
         Scanner sc = new Scanner(System.in);
-
         System.out.print("Masukkan jumlah karakternya: ");
         int jumlah = sc.nextInt();
 
