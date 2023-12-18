@@ -2,7 +2,7 @@ package bahar_100daysofcoding;
 
 import java.util.Scanner;
 
-public class Ke70 {
+public class Ke71 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
