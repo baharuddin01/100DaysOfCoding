@@ -1,5 +1,5 @@
 package bahar_100daysofcoding;
-public class Ke81 {
+public class Ke82 {
 
     public static void main(String[] args) {
         // Tentukan rentang bilangan
